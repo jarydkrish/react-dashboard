@@ -13,7 +13,7 @@ This was created using Create React App and PageDraw.
 
 # Publishing
 
-If you have access, simply run `yarn publish` to push to Github pages.
+If you have access, simply run `yarn deploy` to push to Github pages.
 
 # License
 
